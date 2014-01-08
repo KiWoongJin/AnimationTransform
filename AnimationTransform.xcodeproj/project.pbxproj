@@ -21,6 +21,7 @@
 		00AFBC51187CCE2700DD878F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AFBC33187CCE2600DD878F /* UIKit.framework */; };
 		00AFBC59187CCE2700DD878F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBC57187CCE2700DD878F /* InfoPlist.strings */; };
 		00AFBC5B187CCE2700DD878F /* AnimationTransformTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AFBC5A187CCE2700DD878F /* AnimationTransformTests.m */; };
+		00AFBC65187CCE9700DD878F /* car1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBC64187CCE9700DD878F /* car1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AFBC56187CCE2700DD878F /* AnimationTransformTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AnimationTransformTests-Info.plist"; sourceTree = "<group>"; };
 		00AFBC58187CCE2700DD878F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AFBC5A187CCE2700DD878F /* AnimationTransformTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationTransformTests.m; sourceTree = "<group>"; };
+		00AFBC64187CCE9700DD878F /* car1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		00AFBC36187CCE2600DD878F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				00AFBC64187CCE9700DD878F /* car1.png */,
 				00AFBC37187CCE2600DD878F /* AnimationTransform-Info.plist */,
 				00AFBC38187CCE2600DD878F /* InfoPlist.strings */,
 				00AFBC3B187CCE2600DD878F /* main.m */,
@@ -230,6 +233,7 @@
 			files = (
 				00AFBC48187CCE2700DD878F /* Images.xcassets in Resources */,
 				00AFBC3A187CCE2600DD878F /* InfoPlist.strings in Resources */,
+				00AFBC65187CCE9700DD878F /* car1.png in Resources */,
 				00AFBC43187CCE2700DD878F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
